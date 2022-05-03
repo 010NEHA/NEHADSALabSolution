@@ -6,13 +6,17 @@ public class Main {
 		
 		FindSumPair fsp = new FindSumPair();
 		
-		int sum = 47;
+		int sum = 130;
 		
-		fsp.insert(30);
-		fsp.insert(15);
+		fsp.insert(40);
+		fsp.insert(20);
+		fsp.insert(60);
 		fsp.insert(10);
-		fsp.insert(45);
-		fsp.insert(35);
+		fsp.insert(30);
+		fsp.insert(50);
+		fsp.insert(70);
+
+
 		
 		fsp.display();
 		
